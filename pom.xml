@@ -17,5 +17,6 @@
         <module>web</module>
         <module>security</module>
         <module>app</module>
+        <module>mysql-jpa</module>
     </modules>
 </project>

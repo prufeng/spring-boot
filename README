@@ -1,1 +1,16 @@
 Spring Boot Study
+
+Spring Boot Application - app
+
+Spring Boot Web - web
+
+Spring Boot Security - security
+
+Spring Boot MySQL - mysql-jpa
+Change Database connection and password, create table below test.
+CREATE TABLE `student` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(255) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `age` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=114 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
