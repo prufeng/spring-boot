@@ -19,5 +19,6 @@
         <module>app</module>
         <module>mysql-jpa</module>
         <module>mybatis-annotation</module>
+        <module>mybatis-xml</module>
     </modules>
 </project>
